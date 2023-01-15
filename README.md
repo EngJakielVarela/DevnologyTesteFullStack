@@ -16,8 +16,8 @@ APis do fornecedor:
 
 
 **Estruturo do Projeto:**
-- Laravel Backend;
-- React FrontEnd
+- Laravel Backend - https://github.com/EngJakielVarela/DevnologyTest;
+- React FrontEnd: aqui;
 
 ## Backend:
 - Laravel 9
